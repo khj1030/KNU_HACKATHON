@@ -116,6 +116,7 @@
 
 ## 실행(Usage)
 프로젝트 전체의 메인 페이지와 포트폴리오 페이지의 세부 기능 작동 시 충돌을 막기 위해, 서로 다른 포트를 통해 접속이 가능하도록 하였습니다.
+__반드시 두 서버(포트)를 모두 실행시킨 상황에서 작동해주세요!__ 
 - __첫 째__: h\ecoverde-master\ecoverde-master\index.html 선택
     - ctrl+p → "> Live Server: Open with Live Server" 검색 후 클릭
     - 프로젝트의 메인 페이지 실행 가능
